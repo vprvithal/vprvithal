@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @vprvithal
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning datascience
-- 💞️ I’m looking to collaborate on companies
-- 📫 How to reach me ( mail me :- vprvitthalrao@gmail.com )
-- 😄 Pronouns: he
-- ⚡ Fun fact: coding is fun untill it gets an error 
+# 💫 About Me:
+👨‍💻 VUNUDURTHI PANDU RANGA VITHAL RAO<br><br>🎓 Final-Year B.Sc. Data Science Student<br>📍 Andhra Pradesh, India<br><br>🚀 Passionate about Data Science, Analytics, and Technology, with a keen interest in transforming data into meaningful insights and actionable solutions.<br><br>💡 Technical Skills:<br>🔹 Python<br>🔹 SQL<br>🔹 Power BI<br>🔹 Machine Learning<br>🔹 Data Analysis & Visualization<br>🔹 Data Cleaning & Exploratory Data Analysis (EDA)<br>🔹 Predictive Modeling<br><br>💼 Work Experience:<br>Completed internships and hands-on training in Data Science and Analytics, gaining practical experience in data cleaning, exploratory data analysis, dashboard development, business intelligence reporting, and machine learning applications.<br><br>📊 Projects:<br>🏆 Mobile Price Prediction System – Developed and deployed a machine learning model to predict smartphone prices based on key specifications and features.<br>📈 Live E-Commerce Sales Dashboard (Power BI) – Designed and developed an interactive Power BI dashboard to monitor real-time e-commerce sales performance, track key business metrics, analyze sales trends, and provide actionable insights through dynamic visualizations and reports.<br>📊 Built additional data analysis and visualization projects using Python, SQL, and Power BI to generate insights and support data-driven decision-making.<br><br>🤝 Core Strengths:<br>✨ Continuous Learning<br>✨ Problem Solving<br>✨ Teamwork & Collaboration<br>✨ Adaptability<br>✨ Professional Growth<br><br>🎯 My goal is to build a successful career in Data Analytics and Data Science, leveraging data-driven solutions to solve real-world business challenges while continuously enhancing my technical and professional skills.<br><br>📈 "Data is more than numbers—it is a powerful tool for discovering insights, solving problems, and creating impact."<br>
 
-<!---
-vprvithal/vprvithal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vithal_rao_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vithal-vunudurthi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vprvitthal@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vprvithal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vprvithal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vprvithal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=vprvithal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
